@@ -1,0 +1,58 @@
+Karakteristik,Kategori,Laki-laki,Perempuan
+Pendidikan tertinggi yang ditamatkan,<=SD,14.03,6.13
+Pendidikan tertinggi yang ditamatkan,SLTP,12.33,5.05
+Pendidikan tertinggi yang ditamatkan,SLTA Umum,18.37,8.43
+Pendidikan tertinggi yang ditamatkan,SLTA Kejuruan,14.71,7.63
+Pendidikan tertinggi yang ditamatkan,Diploma I/II/III/ Akademi,1.4,1.73
+Pendidikan tertinggi yang ditamatkan,Universitas (S1/S2/S3),5.12,5.08
+Kelompok Umur,15-19 tahun,8.36,5.13
+Kelompok Umur,20-24 tahun,19.29,10.52
+Kelompok Umur,25-29 tahun,10.46,5.53
+Kelompok Umur,30-34 tahun,5.65,3.33
+Kelompok Umur,35-39 tahun,5.17,2.56
+Kelompok Umur,40-44 tahun,4.89,2.18
+Kelompok Umur,45-49 tahun,4.98,2.22
+Kelompok Umur,50-54 tahun,4.01,1.89
+Kelompok Umur,55-59 tahun,1.2,0.25
+Kelompok Umur,60-64 tahun,0.92,0.19
+Kelompok Umur,65 tahun +,1.03,0.24
+Klasifikasi,Perkotaan,48.27,22.56
+Klasifikasi,Perdesaan,17.69,11.48
+Kategori pengangguran terbuka,mencari pekerjaan,56.61,28.46
+Kategori pengangguran terbuka,mempersiapkan usaha,2.1,1.91
+Kategori pengangguran terbuka,putus asa/merasa tdk mungkin mendapatkan pekerjaan,3.87,1.76
+Kategori pengangguran terbuka,sudah diterima bekerja tetapi belum mulai bekerja,3.38,1.92
+Nama Provinsi,Aceh,  0.96 ,  0.79 
+Nama Provinsi,Sumatera Utara,  3.00 ,  2.22 
+Nama Provinsi,Sumatera Barat,  1.11 ,  0.87 
+Nama Provinsi,Riau,  1.03 ,  0.57 
+Nama Provinsi,Jambi,  0.55 ,  0.48 
+Nama Provinsi,Sumatera Selatan,  1.42 ,  0.98 
+Nama Provinsi,Bengkulu,  0.24 ,  0.18 
+Nama Provinsi,Lampung,  1.38 ,  0.93 
+Nama Provinsi,Bangka-Belitung,  0.24 ,  0.16 
+Nama Provinsi,Kepulauan Riau,  0.78 ,  0.53 
+Nama Provinsi,DKI Jakarta,  3.07 ,  1.77 
+Nama Provinsi,Jawa Barat,  17.50 ,  9.20 
+Nama Provinsi,Jawa Tengah,  7.90 ,  4.49 
+Nama Provinsi,D I Yogyakarta,  0.75 ,  0.42 
+Nama Provinsi,Jawa Timur,  8.97 ,  5.11 
+Nama Provinsi,Banten,  3.89 ,  2.28 
+Nama Provinsi,Bali,  0.97 ,  0.56 
+Nama Provinsi,Nusa Tenggara Barat,  0.61 ,  0.30 
+Nama Provinsi,Nusa Tenggara Timur,  0.65 ,  0.55 
+Nama Provinsi,Kalimantan Barat,  1.10 ,  0.58 
+Nama Provinsi,Kalimantan Tengah,  0.44 ,  0.26 
+Nama Provinsi,Kalimantan Selatan,  0.78 ,  0.42 
+Nama Provinsi,Kalimantan Timur,  0.95 ,  0.44 
+Nama Provinsi,Kalimantan Utara,  0.11 ,  0.06 
+Nama Provinsi,Sulawesi Utara,  0.57 ,  0.37 
+Nama Provinsi,Sulawesi Tengah,  0.41 ,  0.24 
+Nama Provinsi,Sulawesi Selatan,  1.68 ,  1.09 
+Nama Provinsi,Sulawesi Tenggara,  0.37 ,  0.23 
+Nama Provinsi,Gorontalo,  0.12 ,  0.07 
+Nama Provinsi,Sulawesi Barat,  0.16 ,  0.08 
+Nama Provinsi,Maluku,  0.40 ,  0.26 
+Nama Provinsi,Maluku Utara,  0.17 ,  0.14 
+Nama Provinsi,Papua Barat,  0.21 ,  0.12 
+Nama Provinsi,Papua,  0.47 ,  0.24 
