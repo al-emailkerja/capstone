@@ -20,3 +20,4 @@ wordcloud==1.8.2.2
 xlrd==2.0.1
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz
 cluestar @ git+https://github.com/Buckeyes2019/cluestar_2.git
+altair<5
